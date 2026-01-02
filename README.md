@@ -1,1 +1,1 @@
-# financial-non-financial-calculation
+# Financial and Non-Financial Metrics Analyzer.

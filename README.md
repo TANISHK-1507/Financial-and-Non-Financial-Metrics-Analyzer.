@@ -12,7 +12,7 @@ The project integrates:
 
 ## 🎯 Objectives
 
-- Analyze and compare multiple companies over time  
+- Analyze and compare two companies over time  
 - Derive key financial ratios (Profit Margin, ROA, ROE, etc.)  
 - Predict **next year’s revenue** using regression  
 - Classify company performance as **Good or Weak**  
